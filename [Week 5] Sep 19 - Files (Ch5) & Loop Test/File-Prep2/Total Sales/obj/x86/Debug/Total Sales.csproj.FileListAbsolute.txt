@@ -1,0 +1,9 @@
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\bin\Debug\Total Sales.exe
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\bin\Debug\Total Sales.pdb
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total Sales.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total Sales.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total Sales.exe
+D:\CIS 252 - C# Programming I\Sep 19 - Files (Ch5) & Loop Test\File-Prep2\Total Sales\obj\x86\Debug\Total Sales.pdb

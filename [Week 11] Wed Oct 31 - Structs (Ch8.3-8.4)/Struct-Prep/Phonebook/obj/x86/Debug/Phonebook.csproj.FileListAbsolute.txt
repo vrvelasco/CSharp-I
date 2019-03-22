@@ -1,0 +1,8 @@
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\obj\x86\Debug\Phonebook.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\bin\Debug\Phonebook.exe
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\bin\Debug\Phonebook.pdb
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\obj\x86\Debug\Phonebook.exe
+E:\CIS 252 - C# Programming I\[Week 11] Wed Oct 31 - Structs (Ch8.3-8.4)\Download\Phonebook Starter\Phonebook\obj\x86\Debug\Phonebook.pdb

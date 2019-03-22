@@ -1,0 +1,39 @@
+D:\CIS252\CS\Help Me\Help Me\bin\Debug\Help Me.exe.config
+D:\CIS252\CS\Help Me\Help Me\bin\Debug\Help Me.exe
+D:\CIS252\CS\Help Me\Help Me\bin\Debug\Help Me.pdb
+D:\CIS252\CS\Help Me\Help Me\obj\Debug\Help Me.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Help Me\Help Me\obj\Debug\Help_Me.Form1.resources
+D:\CIS252\CS\Help Me\Help Me\obj\Debug\Help_Me.Properties.Resources.resources
+D:\CIS252\CS\Help Me\Help Me\obj\Debug\Help Me.csproj.GenerateResource.Cache
+D:\CIS252\CS\Help Me\Help Me\obj\Debug\Help Me.exe
+D:\CIS252\CS\Help Me\Help Me\obj\Debug\Help Me.pdb
+D:\CIS252\CS\Method-Tut-Snagit\Help Me\bin\Debug\Help Me.exe.config
+D:\CIS252\CS\Method-Tut-Snagit\Help Me\obj\Debug\Help Me.exe
+D:\CIS252\CS\Method-Tut-Snagit\Help Me\obj\Debug\Help Me.pdb
+C:\Temp\Method-Tut-Snagit\Help Me\bin\Debug\Help Me.exe.config
+C:\Temp\Method-Tut-Snagit\Help Me\obj\Debug\Help Me.exe
+C:\Temp\Method-Tut-Snagit\Help Me\obj\Debug\Help Me.pdb
+C:\Temp\Method-Tut-Snagit\Help Me\bin\Debug\Help Me.exe
+C:\Temp\Method-Tut-Snagit\Help Me\bin\Debug\Help Me.pdb
+C:\Temp\Method-Tut-Snagit\Help Me\obj\Debug\Help Me.csprojResolveAssemblyReference.cache
+C:\Temp\Method-Tut-Snagit\Help Me\obj\Debug\Help_Me.Form1.resources
+C:\Temp\Method-Tut-Snagit\Help Me\obj\Debug\Help_Me.Properties.Resources.resources
+C:\Temp\Method-Tut-Snagit\Help Me\obj\Debug\Help Me.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\bin\Debug\Help Me.exe.config
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\bin\Debug\Help Me.exe
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\bin\Debug\Help Me.pdb
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help_Me.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help_Me.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.exe
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.pdb
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\bin\Debug\Help Me.exe.config
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\bin\Debug\Help Me.exe
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\bin\Debug\Help Me.pdb
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help_Me.Form1.resources
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help_Me.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.exe
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-Tut\Help Me\obj\Debug\Help Me.pdb

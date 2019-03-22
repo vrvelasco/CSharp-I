@@ -1,0 +1,27 @@
+D:\CIS252\CS\String Theory\String Theory\bin\Debug\String Theory.exe.config
+D:\CIS252\CS\String Theory\String Theory\bin\Debug\String Theory.exe
+D:\CIS252\CS\String Theory\String Theory\bin\Debug\String Theory.pdb
+D:\CIS252\CS\String Theory\String Theory\obj\Debug\String Theory.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\String Theory\String Theory\obj\Debug\String_Theory.Form1.resources
+D:\CIS252\CS\String Theory\String Theory\obj\Debug\String_Theory.Properties.Resources.resources
+D:\CIS252\CS\String Theory\String Theory\obj\Debug\String Theory.csproj.GenerateResource.Cache
+D:\CIS252\CS\String Theory\String Theory\obj\Debug\String Theory.exe
+D:\CIS252\CS\String Theory\String Theory\obj\Debug\String Theory.pdb
+C:\Temp\String-Tut-Snagit\String Theory\bin\Debug\String Theory.exe.config
+C:\Temp\String-Tut-Snagit\String Theory\obj\Debug\String Theory.exe
+C:\Temp\String-Tut-Snagit\String Theory\obj\Debug\String Theory.pdb
+C:\Temp\String-Tut-Snagit\String Theory\bin\Debug\String Theory.exe
+C:\Temp\String-Tut-Snagit\String Theory\bin\Debug\String Theory.pdb
+C:\Temp\String-Tut-Snagit\String Theory\obj\Debug\String Theory.csprojResolveAssemblyReference.cache
+C:\Temp\String-Tut-Snagit\String Theory\obj\Debug\String_Theory.Form1.resources
+C:\Temp\String-Tut-Snagit\String Theory\obj\Debug\String_Theory.Properties.Resources.resources
+C:\Temp\String-Tut-Snagit\String Theory\obj\Debug\String Theory.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\bin\Debug\String Theory.exe.config
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\bin\Debug\String Theory.exe
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\bin\Debug\String Theory.pdb
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\obj\Debug\String Theory.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\obj\Debug\String_Theory.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\obj\Debug\String_Theory.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\obj\Debug\String Theory.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\obj\Debug\String Theory.exe
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Tut1\String Theory\obj\Debug\String Theory.pdb

@@ -1,0 +1,28 @@
+D:\CIS252\CS\Wish List\Wish List\bin\Debug\Wish List.exe.config
+D:\CIS252\CS\Wish List\Wish List\bin\Debug\Wish List.exe
+D:\CIS252\CS\Wish List\Wish List\bin\Debug\Wish List.pdb
+D:\CIS252\CS\Wish List\Wish List\obj\Debug\Wish List.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Wish List\Wish List\obj\Debug\Wish_List.Form1.resources
+D:\CIS252\CS\Wish List\Wish List\obj\Debug\Wish_List.Properties.Resources.resources
+D:\CIS252\CS\Wish List\Wish List\obj\Debug\Wish List.csproj.GenerateResource.Cache
+D:\CIS252\CS\Wish List\Wish List\obj\Debug\Wish List.exe
+D:\CIS252\CS\Wish List\Wish List\obj\Debug\Wish List.pdb
+C:\Temp\File-Tut1\Wish List\bin\Debug\Wish List.exe.config
+C:\Temp\File-Tut1\Wish List\bin\Debug\Wish List.exe
+C:\Temp\File-Tut1\Wish List\bin\Debug\Wish List.pdb
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish List.csprojResolveAssemblyReference.cache
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish_List.Form1.resources
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish_List.Properties.Resources.resources
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish List.csproj.GenerateResource.Cache
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish List.csproj.CoreCompileInputs.cache
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish List.exe
+C:\Temp\File-Tut1\Wish List\obj\Debug\Wish List.pdb
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\bin\Debug\Wish List.exe.config
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\bin\Debug\Wish List.exe
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\bin\Debug\Wish List.pdb
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\obj\Debug\Wish List.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\obj\Debug\Wish_List.Form1.resources
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\obj\Debug\Wish_List.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\obj\Debug\Wish List.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\obj\Debug\Wish List.exe
+E:\CIS 252 - C# Programming I\Sep 12 - Loops & Files (Ch5)\File-Tut1\Wish List\obj\Debug\Wish List.pdb

@@ -1,0 +1,48 @@
+D:\CIS252\CS\Card Search\Card Search\bin\Debug\Card Search.exe.config
+D:\CIS252\CS\Card Search\Card Search\bin\Debug\Card Search.exe
+D:\CIS252\CS\Card Search\Card Search\bin\Debug\Card Search.pdb
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card_Search.Form1.resources
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card_Search.Properties.Resources.resources
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.csproj.GenerateResource.Cache
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.csproj.CoreCompileInputs.cache
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.exe
+D:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.pdb
+E:\CIS252\CS\Card Search\Card Search\bin\Debug\Card Search.exe.config
+E:\CIS252\CS\Card Search\Card Search\bin\Debug\Card Search.exe
+E:\CIS252\CS\Card Search\Card Search\bin\Debug\Card Search.pdb
+E:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.csprojResolveAssemblyReference.cache
+E:\CIS252\CS\Card Search\Card Search\obj\Debug\Card_Search.Form1.resources
+E:\CIS252\CS\Card Search\Card Search\obj\Debug\Card_Search.Properties.Resources.resources
+E:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.csproj.GenerateResource.Cache
+E:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.exe
+E:\CIS252\CS\Card Search\Card Search\obj\Debug\Card Search.pdb
+D:\CIS252\CS\Array-RevTut-Original\Card Search\bin\Debug\Card Search.exe.config
+D:\CIS252\CS\Array-RevTut-Original\Card Search\bin\Debug\Card Search.exe
+D:\CIS252\CS\Array-RevTut-Original\Card Search\bin\Debug\Card Search.pdb
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card Search.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card_Search.Form1.resources
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card_Search.Properties.Resources.resources
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card Search.csproj.GenerateResource.Cache
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card Search.csproj.CoreCompileInputs.cache
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card Search.exe
+D:\CIS252\CS\Array-RevTut-Original\Card Search\obj\Debug\Card Search.pdb
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\bin\Debug\Card Search.exe.config
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\bin\Debug\Card Search.exe
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\bin\Debug\Card Search.pdb
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card Search.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card_Search.Form1.resources
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card_Search.Properties.Resources.resources
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card Search.csproj.GenerateResource.Cache
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card Search.csproj.CoreCompileInputs.cache
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card Search.exe
+D:\CIS252\CS\Array-RevTut-Snagit\Card Search\obj\Debug\Card Search.pdb
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\bin\Debug\Card Search.exe.config
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\bin\Debug\Card Search.exe
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\bin\Debug\Card Search.pdb
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\obj\Debug\Card Search.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\obj\Debug\Card_Search.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\obj\Debug\Card_Search.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\obj\Debug\Card Search.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\obj\Debug\Card Search.exe
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\Array-RevTut\Card Search\obj\Debug\Card Search.pdb

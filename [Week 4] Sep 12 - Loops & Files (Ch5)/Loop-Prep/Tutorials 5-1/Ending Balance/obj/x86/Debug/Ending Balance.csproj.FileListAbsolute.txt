@@ -1,0 +1,8 @@
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\bin\Debug\Ending Balance.exe
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\bin\Debug\Ending Balance.pdb
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\obj\x86\Debug\Ending Balance.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\obj\x86\Debug\Ending_Balance.Form1.resources
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\obj\x86\Debug\Ending_Balance.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\obj\x86\Debug\Ending Balance.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\obj\x86\Debug\Ending Balance.exe
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\Ending Balance Starter\Ending Balance\obj\x86\Debug\Ending Balance.pdb

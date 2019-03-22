@@ -1,0 +1,7 @@
+SHOPPING LIST
+
+Bread
+Eggs
+Milk
+
+Total Items: 3

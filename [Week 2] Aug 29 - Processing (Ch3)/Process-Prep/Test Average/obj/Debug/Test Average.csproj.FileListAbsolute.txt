@@ -1,0 +1,20 @@
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\bin\Debug\Test Average.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\bin\Debug\Test Average.pdb
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test Average.csprojAssemblyReference.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test_Average.Form1.resources
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test_Average.Properties.Resources.resources
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test Average.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Test Average\obj\Debug\Test Average.pdb
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\bin\Debug\Test Average.exe.config
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\bin\Debug\Test Average.exe
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\bin\Debug\Test Average.pdb
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test Average.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test_Average.Form1.resources
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test_Average.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test Average.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test Average.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test Average.exe
+D:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Test Average\Test Average\obj\Debug\Test Average.pdb

@@ -1,0 +1,9 @@
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\bin\Debug\Array Homework 1.exe.config
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\bin\Debug\Array Homework 1.exe
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\bin\Debug\Array Homework 1.pdb
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\obj\Debug\Array Homework 1.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\obj\Debug\Array Homework 1.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\obj\Debug\Array Homework 1.exe
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-HW1\Array Homework 1\obj\Debug\Array Homework 1.pdb

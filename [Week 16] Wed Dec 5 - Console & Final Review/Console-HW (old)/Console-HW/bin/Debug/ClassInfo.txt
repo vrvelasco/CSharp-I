@@ -1,0 +1,3 @@
+Semester: Fall 2018
+Course: CIS252-001 -- C# Programming I
+Instructor: Mr. Appelbaum

@@ -1,0 +1,9 @@
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\bin\Debug\Bonus Average.exe.config
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\bin\Debug\Bonus Average.exe
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\bin\Debug\Bonus Average.pdb
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\obj\Debug\Bonus Average.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\obj\Debug\Bonus_Average.Form1.resources
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\obj\Debug\Bonus_Average.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\obj\Debug\Bonus Average.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\obj\Debug\Bonus Average.exe
+E:\CIS 252 - C# Programming I\Aug 29 - Processing (Ch3)\Process-Tut2\Bonus Average\obj\Debug\Bonus Average.pdb

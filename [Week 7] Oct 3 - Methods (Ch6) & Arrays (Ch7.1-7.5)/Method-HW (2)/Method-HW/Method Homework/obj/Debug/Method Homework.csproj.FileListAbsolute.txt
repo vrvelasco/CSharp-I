@@ -1,0 +1,19 @@
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\bin\Debug\Method Homework.exe.config
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\bin\Debug\Method Homework.exe
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\bin\Debug\Method Homework.pdb
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method Homework.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method_Homework.Form1.resources
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method_Homework.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method Homework.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method Homework.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method Homework.exe
+D:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Method-HW\Method Homework\obj\Debug\Method Homework.pdb
+C:\Users\student\Desktop\Method-HW\Method Homework\bin\Debug\Method Homework.exe.config
+C:\Users\student\Desktop\Method-HW\Method Homework\bin\Debug\Method Homework.exe
+C:\Users\student\Desktop\Method-HW\Method Homework\bin\Debug\Method Homework.pdb
+C:\Users\student\Desktop\Method-HW\Method Homework\obj\Debug\Method Homework.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Method-HW\Method Homework\obj\Debug\Method_Homework.Form1.resources
+C:\Users\student\Desktop\Method-HW\Method Homework\obj\Debug\Method_Homework.Properties.Resources.resources
+C:\Users\student\Desktop\Method-HW\Method Homework\obj\Debug\Method Homework.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Method-HW\Method Homework\obj\Debug\Method Homework.exe
+C:\Users\student\Desktop\Method-HW\Method Homework\obj\Debug\Method Homework.pdb

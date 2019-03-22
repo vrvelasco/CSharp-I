@@ -1,0 +1,28 @@
+D:\CIS252\CS\Array Ops\Array Ops\bin\Debug\Array Ops.exe.config
+D:\CIS252\CS\Array Ops\Array Ops\bin\Debug\Array Ops.exe
+D:\CIS252\CS\Array Ops\Array Ops\bin\Debug\Array Ops.pdb
+D:\CIS252\CS\Array Ops\Array Ops\obj\Debug\Array Ops.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Array Ops\Array Ops\obj\Debug\Array_Ops.Form1.resources
+D:\CIS252\CS\Array Ops\Array Ops\obj\Debug\Array_Ops.Properties.Resources.resources
+D:\CIS252\CS\Array Ops\Array Ops\obj\Debug\Array Ops.csproj.GenerateResource.Cache
+D:\CIS252\CS\Array Ops\Array Ops\obj\Debug\Array Ops.exe
+D:\CIS252\CS\Array Ops\Array Ops\obj\Debug\Array Ops.pdb
+C:\Temp\Array-Tut2-Snagit\Array Ops\bin\Debug\Array Ops.exe.config
+C:\Temp\Array-Tut2-Snagit\Array Ops\bin\Debug\Array Ops.exe
+C:\Temp\Array-Tut2-Snagit\Array Ops\bin\Debug\Array Ops.pdb
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array Ops.csprojResolveAssemblyReference.cache
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array_Ops.Form1.resources
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array_Ops.Properties.Resources.resources
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array Ops.csproj.GenerateResource.Cache
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array Ops.csproj.CoreCompileInputs.cache
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array Ops.exe
+C:\Temp\Array-Tut2-Snagit\Array Ops\obj\Debug\Array Ops.pdb
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\bin\Debug\Array Ops.exe.config
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\bin\Debug\Array Ops.exe
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\bin\Debug\Array Ops.pdb
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\obj\Debug\Array Ops.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\obj\Debug\Array_Ops.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\obj\Debug\Array_Ops.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\obj\Debug\Array Ops.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\obj\Debug\Array Ops.exe
+E:\CIS 252 - C# Programming I\[Week 7] Oct 3 - Methods (Ch6) & Arrays (Ch7.1-7.5)\Array-Tut2A\Array Ops\obj\Debug\Array Ops.pdb

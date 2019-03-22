@@ -1,0 +1,8 @@
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\bin\Debug\Test Score List.exe
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\bin\Debug\Test Score List.pdb
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\obj\x86\Debug\Test Score List.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\obj\x86\Debug\Test_Score_List.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\obj\x86\Debug\Test_Score_List.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\obj\x86\Debug\Test Score List.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\obj\x86\Debug\Test Score List.exe
+E:\CIS 252 - C# Programming I\[Week 8] Oct 10 - Lists (Ch7.9) & Arrays (Ch7.2-7.5)\List-Prep\Test Score List\obj\x86\Debug\Test Score List.pdb

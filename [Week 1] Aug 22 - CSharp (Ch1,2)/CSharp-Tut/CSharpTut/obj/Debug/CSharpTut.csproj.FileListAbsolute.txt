@@ -1,0 +1,9 @@
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\bin\Debug\CSharpTut.exe.config
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\bin\Debug\CSharpTut.exe
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\bin\Debug\CSharpTut.pdb
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\obj\Debug\CSharpTut.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\obj\Debug\CSharpTut.Form1.resources
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\obj\Debug\CSharpTut.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\obj\Debug\CSharpTut.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\obj\Debug\CSharpTut.exe
+E:\CIS 252 - C# Programming I\Wed Aug 22 - CSharp (Ch1,2)\CSharpTut\CSharpTut\obj\Debug\CSharpTut.pdb

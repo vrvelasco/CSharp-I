@@ -1,0 +1,14 @@
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\bin\Debug\Console-HW.exe.config
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\bin\Debug\Console-HW.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\bin\Debug\Console-HW.pdb
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\obj\Debug\Console-HW.csprojAssemblyReference.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\obj\Debug\Console-HW.csproj.CoreCompileInputs.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\obj\Debug\Console-HW.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Console-HW\obj\Debug\Console-HW.pdb
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\bin\Debug\Console-HW.exe.config
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\bin\Debug\Console-HW.exe
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\bin\Debug\Console-HW.pdb
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\obj\Debug\Console-HW.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\obj\Debug\Console-HW.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\obj\Debug\Console-HW.exe
+D:\CIS 252 - C# Programming I\[Week 16] Wed Dec 5 - Console & Final Review\Console-HW\Console-HW\obj\Debug\Console-HW.pdb

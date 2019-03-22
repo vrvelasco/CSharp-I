@@ -1,0 +1,28 @@
+D:\CIS252\CS\Bug List\Bug List\bin\Debug\Bug List.exe.config
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\bin\Debug\Bug List.exe.config
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\bin\Debug\Bug List.exe
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\bin\Debug\Bug List.pdb
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\obj\Debug\Bug List.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\obj\Debug\Bug_List.Form1.resources
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\obj\Debug\Bug_List.Properties.Resources.resources
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\obj\Debug\Bug List.csproj.GenerateResource.Cache
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\obj\Debug\Bug List.exe
+D:\CIS252\CS\List-Tut1-Snagit\Bug List\obj\Debug\Bug List.pdb
+C:\Temp\Bug List Starter\Bug List\bin\Debug\Bug List.exe.config
+C:\Temp\Bug List Starter\Bug List\obj\Debug\Bug List.exe
+C:\Temp\Bug List Starter\Bug List\obj\Debug\Bug List.pdb
+C:\Temp\Bug List Starter\Bug List\bin\Debug\Bug List.exe
+C:\Temp\Bug List Starter\Bug List\bin\Debug\Bug List.pdb
+C:\Temp\Bug List Starter\Bug List\obj\Debug\Bug List.csprojResolveAssemblyReference.cache
+C:\Temp\Bug List Starter\Bug List\obj\Debug\Bug_List.Form1.resources
+C:\Temp\Bug List Starter\Bug List\obj\Debug\Bug_List.Properties.Resources.resources
+C:\Temp\Bug List Starter\Bug List\obj\Debug\Bug List.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\List-Tut\Bug List\bin\Debug\Bug List.exe.config
+C:\Users\student\Desktop\List-Tut\Bug List\bin\Debug\Bug List.exe
+C:\Users\student\Desktop\List-Tut\Bug List\bin\Debug\Bug List.pdb
+C:\Users\student\Desktop\List-Tut\Bug List\obj\Debug\Bug List.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\List-Tut\Bug List\obj\Debug\Bug_List.Form1.resources
+C:\Users\student\Desktop\List-Tut\Bug List\obj\Debug\Bug_List.Properties.Resources.resources
+C:\Users\student\Desktop\List-Tut\Bug List\obj\Debug\Bug List.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\List-Tut\Bug List\obj\Debug\Bug List.exe
+C:\Users\student\Desktop\List-Tut\Bug List\obj\Debug\Bug List.pdb

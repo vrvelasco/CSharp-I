@@ -1,0 +1,21 @@
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\bin\Debug\Multiform Practice.exe.config
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\bin\Debug\Multiform Practice.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\bin\Debug\Multiform Practice.pdb
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform Practice.csprojAssemblyReference.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform_Practice.MainForm.resources
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform_Practice.Properties.Resources.resources
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform Practice.csproj.GenerateResource.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform Practice.csproj.CoreCompileInputs.cache
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform Practice.exe
+C:\Users\VRVel\AppData\Local\Temporary Projects\Multiform Practice\obj\Debug\Multiform Practice.pdb
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\bin\Debug\Multiform Practice.exe.config
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\bin\Debug\Multiform Practice.exe
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\bin\Debug\Multiform Practice.pdb
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform Practice.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform_Practice.MainForm.resources
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform_Practice.MessageForm.resources
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform_Practice.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform Practice.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform Practice.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform Practice.exe
+D:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Prep\Multiform Practice\obj\Debug\Multiform Practice.pdb

@@ -1,0 +1,8 @@
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\bin\Debug\Telephone Format.exe
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\bin\Debug\Telephone Format.pdb
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\obj\x86\Debug\Telephone Format.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\obj\x86\Debug\Telephone_Format.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\obj\x86\Debug\Telephone_Format.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\obj\x86\Debug\Telephone Format.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\obj\x86\Debug\Telephone Format.exe
+E:\CIS 252 - C# Programming I\[Week 9] Oct 17 - Strings (Ch8.1-8.2) & Array Review\String-Prep\Telephone Format\obj\x86\Debug\Telephone Format.pdb

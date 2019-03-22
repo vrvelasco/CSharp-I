@@ -1,0 +1,19 @@
+C:\Temp\Random Array\Random Array\bin\Debug\Random Array.exe.config
+C:\Temp\Random Array\Random Array\bin\Debug\Random Array.exe
+C:\Temp\Random Array\Random Array\bin\Debug\Random Array.pdb
+C:\Temp\Random Array\Random Array\obj\Debug\Random Array.csprojAssemblyReference.cache
+C:\Temp\Random Array\Random Array\obj\Debug\Random_Array.Form1.resources
+C:\Temp\Random Array\Random Array\obj\Debug\Random_Array.Properties.Resources.resources
+C:\Temp\Random Array\Random Array\obj\Debug\Random Array.csproj.GenerateResource.cache
+C:\Temp\Random Array\Random Array\obj\Debug\Random Array.csproj.CoreCompileInputs.cache
+C:\Temp\Random Array\Random Array\obj\Debug\Random Array.exe
+C:\Temp\Random Array\Random Array\obj\Debug\Random Array.pdb
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\bin\Debug\Random Array.exe.config
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\bin\Debug\Random Array.exe
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\bin\Debug\Random Array.pdb
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\obj\Debug\Random Array.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\obj\Debug\Random_Array.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\obj\Debug\Random_Array.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\obj\Debug\Random Array.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\obj\Debug\Random Array.exe
+E:\CIS 252 - C# Programming I\[Week 6] Sep 26 - Random & Load (Ch5.8-9) & Arrays (Ch7.1-7.3)\Array-Tut1\Random Array\obj\Debug\Random Array.pdb

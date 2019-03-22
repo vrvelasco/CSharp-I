@@ -1,0 +1,9 @@
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\obj\Debug\Array-Test-Minerals.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\obj\Debug\Array_Test_Minerals.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\obj\Debug\Array_Test_Minerals.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\obj\Debug\Array-Test-Minerals.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\bin\Debug\Array-Test-Minerals.exe.config
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\bin\Debug\Array-Test-Minerals.exe
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\bin\Debug\Array-Test-Minerals.pdb
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\obj\Debug\Array-Test-Minerals.exe
+E:\CIS 252 - C# Programming I\[Week 10] Wed Oct 24 - Strings (Ch8.1-8.2) & Array Test\Array-Test-Minerals\Array-Test-Minerals\obj\Debug\Array-Test-Minerals.pdb

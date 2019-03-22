@@ -1,0 +1,11 @@
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\bin\Debug\World of Nations.exe.config
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\bin\Debug\World of Nations.exe
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\bin\Debug\World of Nations.pdb
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World of Nations.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World_of_Nations.NameForm.resources
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World_of_Nations.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World of Nations.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World of Nations.exe
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World of Nations.pdb
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World_of_Nations.EnterForm.resources
+E:\CIS 252 - C# Programming I\[Week 15] Wed Nov 28 - Forms (Ch9.6)\Form-Tut\World of Nations\obj\Debug\World_of_Nations.DisplayForm.resources

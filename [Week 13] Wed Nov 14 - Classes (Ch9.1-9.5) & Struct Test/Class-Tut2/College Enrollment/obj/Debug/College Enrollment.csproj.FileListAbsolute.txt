@@ -1,0 +1,29 @@
+D:\CIS252\CS\College Enrollment\College Enrollment\bin\Debug\College Enrollment.exe.config
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\bin\Debug\College Enrollment.exe.config
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\bin\Debug\College Enrollment.exe
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\bin\Debug\College Enrollment.pdb
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\obj\Debug\College Enrollment.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\obj\Debug\College_Enrollment.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\obj\Debug\College_Enrollment.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\obj\Debug\College Enrollment.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\obj\Debug\College Enrollment.exe
+E:\CIS 252 - C# Programming I\[Week 12] Wed Nov 7 - Classes (Ch9.1-9.4) & Struct Review\Class-Tut1\College Enrollment\obj\Debug\College Enrollment.pdb
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\bin\Debug\College Enrollment.exe.config
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\bin\Debug\College Enrollment.exe
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\bin\Debug\College Enrollment.pdb
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College_Enrollment.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College_Enrollment.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.exe
+E:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.pdb
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\bin\Debug\College Enrollment.exe.config
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\bin\Debug\College Enrollment.exe
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\bin\Debug\College Enrollment.pdb
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College_Enrollment.Form1.resources
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College_Enrollment.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.exe
+D:\CIS 252 - C# Programming I\[Week 13] Wed Nov 14 - Classes (Ch9.1-9.5) & Struct Test\Class-Tut2\College Enrollment\obj\Debug\College Enrollment.pdb

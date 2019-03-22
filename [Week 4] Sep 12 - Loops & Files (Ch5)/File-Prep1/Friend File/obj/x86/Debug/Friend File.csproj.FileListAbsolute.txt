@@ -1,0 +1,8 @@
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\obj\x86\Debug\Friend File.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\bin\Debug\Friend File.exe
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\bin\Debug\Friend File.pdb
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\obj\x86\Debug\Friend File.exe
+E:\CIS 252 - C# Programming I\Wed Sep 12 - Loops & Files (Ch5)\File-Prep1\Friend File\obj\x86\Debug\Friend File.pdb

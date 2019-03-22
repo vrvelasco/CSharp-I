@@ -1,0 +1,57 @@
+D:\CIS252\CS\Score File\Score File\bin\Debug\Score File.exe.config
+D:\CIS252\CS\Score File\Score File\bin\Debug\Score File.exe
+D:\CIS252\CS\Score File\Score File\bin\Debug\Score File.pdb
+D:\CIS252\CS\Score File\Score File\obj\Debug\Score File.csprojResolveAssemblyReference.cache
+D:\CIS252\CS\Score File\Score File\obj\Debug\Score_File.Form1.resources
+D:\CIS252\CS\Score File\Score File\obj\Debug\Score_File.Properties.Resources.resources
+D:\CIS252\CS\Score File\Score File\obj\Debug\Score File.csproj.GenerateResource.Cache
+D:\CIS252\CS\Score File\Score File\obj\Debug\Score File.exe
+D:\CIS252\CS\Score File\Score File\obj\Debug\Score File.pdb
+C:\Temp\File-Tut2-Snagit\Score File\bin\Debug\Score File.exe.config
+C:\Temp\File-Tut2-Snagit\Score File\bin\Debug\Score File.exe
+C:\Temp\File-Tut2-Snagit\Score File\bin\Debug\Score File.pdb
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score File.csprojResolveAssemblyReference.cache
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score_File.Form1.resources
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score_File.Properties.Resources.resources
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score File.csproj.GenerateResource.Cache
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score File.csproj.CoreCompileInputs.cache
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score File.exe
+C:\Temp\File-Tut2-Snagit\Score File\obj\Debug\Score File.pdb
+C:\Temp\Score File Starter\Score File\bin\Debug\Score File.exe.config
+C:\Temp\Score File Starter\Score File\bin\Debug\Score File.exe
+C:\Temp\Score File Starter\Score File\bin\Debug\Score File.pdb
+C:\Temp\Score File Starter\Score File\obj\Debug\Score File.csprojResolveAssemblyReference.cache
+C:\Temp\Score File Starter\Score File\obj\Debug\Score_File.Form1.resources
+C:\Temp\Score File Starter\Score File\obj\Debug\Score_File.Properties.Resources.resources
+C:\Temp\Score File Starter\Score File\obj\Debug\Score File.csproj.GenerateResource.Cache
+C:\Temp\Score File Starter\Score File\obj\Debug\Score File.csproj.CoreCompileInputs.cache
+C:\Temp\Score File Starter\Score File\obj\Debug\Score File.exe
+C:\Temp\Score File Starter\Score File\obj\Debug\Score File.pdb
+C:\Users\student\Desktop\File-Tut2A\Score File\bin\Debug\Score File.exe.config
+C:\Users\student\Desktop\File-Tut2A\Score File\bin\Debug\Score File.exe
+C:\Users\student\Desktop\File-Tut2A\Score File\bin\Debug\Score File.pdb
+C:\Users\student\Desktop\File-Tut2A\Score File\obj\Debug\Score File.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\File-Tut2A\Score File\obj\Debug\Score_File.Form1.resources
+C:\Users\student\Desktop\File-Tut2A\Score File\obj\Debug\Score_File.Properties.Resources.resources
+C:\Users\student\Desktop\File-Tut2A\Score File\obj\Debug\Score File.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\File-Tut2A\Score File\obj\Debug\Score File.exe
+C:\Users\student\Desktop\File-Tut2A\Score File\obj\Debug\Score File.pdb
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\bin\Debug\Score File.exe.config
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\bin\Debug\Score File.exe
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\bin\Debug\Score File.pdb
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score_File.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score_File.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.exe
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.pdb
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\bin\Debug\Score File.exe.config
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\bin\Debug\Score File.exe
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\bin\Debug\Score File.pdb
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.csprojAssemblyReference.cache
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score_File.Form1.resources
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score_File.Properties.Resources.resources
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.csproj.GenerateResource.cache
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.csproj.CoreCompileInputs.cache
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.exe
+D:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\File-Tut2A\Score File\obj\Debug\Score File.pdb

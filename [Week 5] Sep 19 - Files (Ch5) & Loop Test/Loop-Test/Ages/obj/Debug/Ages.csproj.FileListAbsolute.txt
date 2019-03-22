@@ -1,0 +1,9 @@
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\bin\Debug\Ages.exe.config
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\bin\Debug\Ages.exe
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\bin\Debug\Ages.pdb
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\obj\Debug\Ages.csprojResolveAssemblyReference.cache
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\obj\Debug\Ages.csproj.GenerateResource.Cache
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\obj\Debug\Ages.exe
+E:\CIS 252 - C# Programming I\[Week 5] Sep 19 - Files (Ch5) & Loop Test\Loop-Test\Ages\obj\Debug\Ages.pdb
